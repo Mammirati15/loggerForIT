@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed hard drive on workstation 005",
+      "attention": false,
+      "date": "05-05-2020",
+      "tech": "John Jovi"
+    },
+    {
+      "id": 2,
+      "message": "Workstation 009 not posting the way it should",
+      "attention": true,
+      "date": "08-09-2021",
+      "tech": "Stevie Buschemi"
+    },
+    {
+      "id": 3,
+      "message": "Needed to Change the memory on the 5th Station",
+      "attention": false,
+      "date": "04-20-2021",
+      "tech": "Tom Hanks"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Jovi"
+    },
+    {
+      "id": 2,
+      "firstName": "Steve",
+      "lastName": "Buschemi"
+    },
+    {
+      "id": 3,
+      "firstName": "Tom",
+      "lastName": "Hanks"
+    },
+    {
+      "id": 4,
+      "firstName": "Herman",
+      "lastName": "Munster"
+    }
+  ]
+}
