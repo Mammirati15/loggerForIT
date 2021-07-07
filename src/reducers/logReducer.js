@@ -23,7 +23,7 @@ export default(state = initialState, action) => {
         case LOGS_ERROR:
             console.error(action.payload)
             return {
-                ..state,
+                ...state,
                 error: action.payload
             }
         default:

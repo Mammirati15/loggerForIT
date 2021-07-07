@@ -1,25 +1,13 @@
 import { GET_LOGS, SET_LOADING, LOGS_ERROR } from './actionTypes'
 
-// export const getLogs = () => {
-//     return async (dispatch) => {
-//         setLoading()
 
-//         const res = await fetch('/logs')
-//         const data = await res.json
-
-//         dispatch({
-//             type: GET_LOGS,
-//             payload: data
-//         })
-//     }
-// }
-
+//Gets logs from server
 export const getLogs = () => async dispatch => {
     try {
         setLoading()
 
         const res = await fetch('/logs')
-        const data = await res.json
+        const data = await res.json()
 
         dispatch({
             type: GET_LOGS,
