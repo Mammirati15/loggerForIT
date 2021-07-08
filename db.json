@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "Fixed the Hard drive on pc #22",
       "attention": false,
-      "date": "05-05-2020",
-      "tech": "John Jovi"
+      "tech": "Tom Hanks",
+      "date": "2021-07-08T04:40:28.020Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 009 not posting the way it should",
+      "message": "In process of removing the memory card on pc #99",
       "attention": true,
-      "date": "08-09-2021",
-      "tech": "Stevie Buschemi"
+      "tech": "Steve Buschemi",
+      "date": "2021-07-08T04:40:56.224Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "Needed to Change the memory on the 5th Station",
-      "attention": false,
-      "date": "04-20-2021",
-      "tech": "Tom Hanks"
+      "message": "All screens needed update for wireless #32",
+      "attention": true,
+      "tech": "John Jovie",
+      "date": "2021-07-08T04:41:42.340Z",
+      "id": 3
     }
   ],
   "techs": [
