@@ -8,11 +8,18 @@
       "id": 1
     },
     {
-      "message": "In process of removing the memory card on pc #99",
-      "attention": true,
+      "message": "I fixed the mouse at station 15",
+      "attention": false,
       "tech": "Steve Buschemi",
-      "date": "2021-07-08T04:40:56.224Z",
+      "date": "2021-07-11T05:09:53.712Z",
       "id": 2
+    },
+    {
+      "message": "Working on hard drive repair on station 35",
+      "attention": true,
+      "tech": "Tom Hanks",
+      "date": "2021-07-11T05:10:19.790Z",
+      "id": 3
     }
   ],
   "techs": [
