@@ -31,7 +31,7 @@ const EditLogModal = ({current, updateLog}) => {
             }
 
             updateLog(updLog)
-            M.toast({html: `Log updated by ${tech}`})
+            M.toast({html: `Log updated by ${tech}`, classes: 'rounded'})
 
             //Clearing Fields
             setMessage('')

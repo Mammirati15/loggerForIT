@@ -10,7 +10,7 @@ import M from 'materialize-css/dist/js/materialize.min.js'
 const LogItem = ({ log, deleteLog, setCurrent }) => {
     const onDelete = () => {
         deleteLog(log.id)
-        M.toast({html: 'Log has been Deleted'})
+        M.toast({html: 'Log has been Deleted', classes: 'rounded'})
     }
 
     return (
