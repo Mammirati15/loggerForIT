@@ -20,6 +20,13 @@
       "attention": false,
       "tech": "Herman Muenster",
       "date": "2021-07-12T00:44:56.237Z"
+    },
+    {
+      "message": "Checked what was wrong with Memory on Station 45, considering swapping it out",
+      "attention": true,
+      "tech": "Jerry Jones",
+      "date": "2021-07-12T02:06:26.481Z",
+      "id": 4
     }
   ],
   "techs": [
@@ -42,6 +49,21 @@
       "id": 4,
       "firstName": "Herman",
       "lastName": "Munster"
+    },
+    {
+      "firstName": "Tina",
+      "lastName": "Turner",
+      "id": 5
+    },
+    {
+      "firstName": "Jerry",
+      "lastName": "Jones",
+      "id": 6
+    },
+    {
+      "firstName": "Jackie",
+      "lastName": "Chan",
+      "id": 7
     }
   ]
 }
