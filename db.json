@@ -15,11 +15,11 @@
       "id": 2
     },
     {
-      "message": "Working on hard drive repair on station 35",
-      "attention": true,
-      "tech": "Tom Hanks",
-      "date": "2021-07-11T05:10:19.790Z",
-      "id": 3
+      "id": 3,
+      "message": "Fixed hard drive on station 35",
+      "attention": false,
+      "tech": "Herman Muenster",
+      "date": "2021-07-12T00:44:56.237Z"
     }
   ],
   "techs": [
